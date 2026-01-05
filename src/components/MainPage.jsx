@@ -73,10 +73,16 @@ function MainPage({ soundOn, isTabActive }) {
         setIsRolling(false);
       }, 200);
     } else {
+      // reset game completely
       setHasWon(false);
       setDice(generateAllNewDice());
       setHasRolledOnce(false);
-      setShowRules(true); // optional: reopen rules for new game
+      setShowRules(true);
+
+      // 🔥 RESET STATS
+      setRollCount(0);
+      setTime(0);
+      setIsTiming(false);
     }
   }
 
