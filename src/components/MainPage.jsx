@@ -149,7 +149,8 @@ function MainPage({ soundOn, isTabActive }) {
           aria-hidden="true"
           recycle={false}
           numberOfPieces={300}
-          gravity={0.25}
+          gravity={0.23}
+          wind={0.01}
         />
 
       )}
