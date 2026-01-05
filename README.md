@@ -76,33 +76,28 @@ The goal of Tenzies is simple:
 
 ## 🗂 Project Structure
 
+```txt
 TENZORA/
 ├── public/
 │   └── favicon.svg
-│
 ├── src/
 │   ├── assets/
 │   │   ├── sounds/
 │   │   │   ├── click.mp3
 │   │   │   └── win.mp3
-│   │   │
 │   │   └── Tenzora_logo.png
-│   │
 │   ├── components/
 │   │   ├── Header.jsx
 │   │   ├── MainPage.jsx
 │   │   ├── Die.jsx
 │   │   └── Footer.jsx
-│   │
 │   ├── App.jsx
 │   ├── App.css
 │   ├── index.css
 │   └── main.jsx
-│
 ├── .gitignore
 ├── index.html
 ├── package.json
-├── package-lock.json
 ├── README.md
 └── LICENSE
 
