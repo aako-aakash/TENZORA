@@ -1,0 +1,24 @@
+:root {
+  --bg-main: #0e1116;
+  --bg-surface: #171b22;
+  --accent-primary: #3f5eff;
+  --text-main: #ffffff;
+  --text-muted: #a1a8b3;
+  --radius-md: 12px;
+  --shadow-soft: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  line-height: 1.5;
+}
