@@ -10,7 +10,7 @@ This project goes beyond a basic tutorial by incorporating animations, sound con
 
 ## 🚀 Live Demo
 
-🔗 https://tenzora.vercel.app  
+🔗 https://tenzora-nine.vercel.app/
 
 
 ---
@@ -119,7 +119,8 @@ TENZORA/
 
 ## 👨‍💻 Author
 
-**AAKASH**  
+  **AAKASH**  
+ 
 Designed & built as a portfolio capstone project.
 
 - GitHub: https://github.com/aako-aakash
