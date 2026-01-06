@@ -7,7 +7,7 @@ function Footer() {
 
       <div className="footer-links">
         <a
-          href="https://github.com/aako-aakash"
+          href="https://github.com/aako-aakash/TENZORA"
           target="_blank"
           rel="noopener noreferrer"
         >
